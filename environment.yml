@@ -13,3 +13,7 @@ dependencies:
   - limix=3.0.3
   - python=3.7.5
   - r-rjava
+  - r-lme4
+  - r-plot.matrix
+  - r-sommer
+  - r-rtassel
