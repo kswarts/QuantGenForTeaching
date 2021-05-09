@@ -1,0 +1,13 @@
+name: quantGen
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - r-base
+  - r-devtools=2.2
+  - java-jdk
+  - jupyter
+  - limix=3.0.3
+  - python=3.7.5
