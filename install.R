@@ -1,0 +1,7 @@
+install.packages("devtools")
+devtools::install_bitbucket(repo = "bucklerlab/rTASSEL",ref = "master",build_vignettes = FALSE)
+install.packages("sommer")
+install.packages("plot.matrix")
+install.packages("MASS")
+install.packages("lme4")
+install.packages("hmisc")
