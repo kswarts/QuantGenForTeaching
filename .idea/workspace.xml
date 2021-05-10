@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32473832-3eae-415f-90f7-b15ab722bf5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_HeritabilityFromK.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_GenomicPrediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/1001genomes_snp-short-indel_only_ACGTN.subsamp170_poly_minCov50_thinned30kpb_KOfri.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/282.poly_thinned30kbp_3.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/282.poly_thinned30kbp_6.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/jimenezgomez.FRI.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/0_running_Jupyter_notebooks-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/0_running_Jupyter_notebooks-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/1_phenotype_exploration-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/1_phenotype_exploration-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/2_GWAS-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/2_GWAS-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/3_GWAS_interpretation-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/3_GWAS_interpretation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/5_HeritabilityFromK.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/6_GenomicPrediction.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/4_Kinships.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/4_Kinships.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_phenotype_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_phenotype_exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_GWAS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_GWAS.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_GWAS_interpretation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_GWAS_interpretation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Kinships.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_Kinships.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Arabidopsis_Phenotypes.trait" beforeDir="false" afterPath="$PROJECT_DIR$/data/Arabidopsis_Phenotypes.trait" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.R" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_phenotype_exploration.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_GWAS.ipynb">
-          <provider selected="true" editor-type-id="jupyter-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -57,7 +31,7 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6_GenomicPrediction.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
@@ -102,6 +76,16 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/2_GWAS-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/4_Kinships.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -127,18 +111,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/QuantGenForTeaching.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-        <option value="$PROJECT_DIR$/.idea/dictionaries/kelly_swarts.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="238" />
     <option name="y" value="115" />
@@ -160,6 +132,11 @@
             <path>
               <item name="QuantGenForTeaching" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuantGenForTeaching" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuantGenForTeaching" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuantGenForTeaching" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -176,16 +153,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.ipynb_checkpoints" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.ipynb_checkpoints" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/.ipynb_checkpoints" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -211,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620144865769</updated>
       <workItem from="1620144866945" duration="12101000" />
-      <workItem from="1620577244915" duration="14848000" />
+      <workItem from="1620577244915" duration="15535000" />
     </task>
     <task id="LOCAL-00001" summary="First commit to make sure that it will work">
       <created>1620562859474</created>
@@ -283,11 +260,18 @@
       <option name="project" value="LOCAL" />
       <updated>1620627977021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added heritability and genomic prediction">
+      <created>1620659838751</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620659838751</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26949000" />
+    <option name="totallyTimeSpent" value="27636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="238" y="115" width="2114" height="1199" extended-state="0" />
@@ -333,7 +317,8 @@
     <MESSAGE value="added r-rjava to environment.yml" />
     <MESSAGE value="added all the r stuff including r-rtassel" />
     <MESSAGE value="moved sommer up because blas issues" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved sommer up because blas issues" />
+    <MESSAGE value="Added heritability and genomic prediction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added heritability and genomic prediction" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/282_traits.txt">
@@ -366,13 +351,7 @@
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/3_GWAS_interpretation-checkpoint.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/2_GWAS-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/0_running_Jupyter_notebooks-checkpoint.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/4_Kinships.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/1_phenotype_exploration-checkpoint.ipynb">
@@ -394,13 +373,6 @@
             <caret line="30" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/environment.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -434,6 +406,19 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/6_GenomicPrediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/2_GWAS-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/4_Kinships.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
