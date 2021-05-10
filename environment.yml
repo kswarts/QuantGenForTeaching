@@ -6,7 +6,7 @@ channels:
   - r
 dependencies:
   - r-base
-  - r-devtools=2.2
+  - r-sommer
   - openjdk
   - java-jdk
   - jupyter
@@ -15,5 +15,5 @@ dependencies:
   - r-rjava
   - r-lme4
   - r-plot.matrix
-  - r-sommer
+  - r-hmisc
   - r-rtassel
