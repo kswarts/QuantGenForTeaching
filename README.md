@@ -22,7 +22,7 @@ conda env create -f environment.yml
 To activate this environment (do this in each new bash window)
 
 ```bash
-conda activate limix
+conda activate quantGen
 ```
 
 

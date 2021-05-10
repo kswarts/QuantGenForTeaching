@@ -5,8 +5,8 @@ channels:
   - defaults
   - r
 dependencies:
-  - r-base
   - r-sommer
+  - r-base
   - openjdk
   - java-jdk
   - jupyter
